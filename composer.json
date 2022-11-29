@@ -1,0 +1,14 @@
+{
+    "name": "root/ip_geo_locator",
+    "autoload": {
+        "psr-4": {
+            "Root\\IpGeoLocator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adam"
+        }
+    ],
+    "require": {}
+}
